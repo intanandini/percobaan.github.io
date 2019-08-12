@@ -1,0 +1,5 @@
+#w-sitemap-wrapper {font-size:13px}
+#w-sitemap-wrapper li {position:relative;padding:.385em 0 .385em 6.923em;border-top:none;border-bottom:1px solid #f6f6f6}
+#w-sitemap-wrapper span {position:absolute;left:0;color:#bd8b56}
+#w-sitemap-wrapper a {font-weight:bold}
+#w-sitemap-loading-msg {height:100px;line-height:100px;text-align:center;font-weight:bold;letter-spacing:1px;font-size:18px;color:#bbbbbb}
